@@ -1,0 +1,713 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "German",
+      "surnames": "Del Zotto",
+      "title": "Principal Backend Engineer",
+      "description": "I am programmer, a developer o just someone who loves to see how businesses gets better with great software.\n\nA generalizing specialist, I enjoy teaming with specialists. I have worked with many people in different countries and I have learned things from a vast diversity.\n\nI'm not someone who does things without asking why. I need to understand what I am doing.\n\nI’m not obstinate, I like to change my mind but you need to convince me.\n\nI want to be the person who others wants to have in their team.\n\nSomeone who creates a better place in the world, for my friends, colleagues, family and customers.",
+      "avatar": {
+        "alt": "profile-image",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/b4626dd4-3faa-4576-8eaa-13f17c906740_884b5d1e91b826afc8c6.884b5d1e91b826afc8c6b4fc3429dbd0"
+      },
+      "location": {
+        "notes": "Madrid, Community of Madrid, ES"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/germandz"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/GermanDZ"
+      },
+      {
+        "type": "other",
+        "URL": "https://stackoverflow.com/story/germandz"
+      },
+      {
+        "type": "other",
+        "URL": "http://1uptalent.com/portfolio/"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "Favorite editor",
+        "fact": "VSCode"
+      },
+      {
+        "topic": "First computer",
+        "fact": "Spectrum"
+      }
+    ],
+    "recommendations": [
+      {
+        "title": "The Clean Coder: A Code of Conduct for Professional Programmers (Robert C. Mart...",
+        "type": "reading",
+        "URL": "http://www.amazon.com/The-Clean-Coder-Professional-Programmers/dp/0137081073%3FSubscriptionId%3DAKIAIIBINOD46VC3JCLQ%26tag%3Dstackoverfl08-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0137081073",
+        "authors": [
+          {
+            "name": "Robert C.",
+            "surnames": "Martin",
+            "title": "Author"
+          }
+        ]
+      },
+      {
+        "title": "The RSpec Book: Behaviour Driven Development with Rspec, Cucumber, and Friends ...",
+        "type": "reading",
+        "URL": "http://www.amazon.com/The-RSpec-Book-Behaviour-Development/dp/1934356379%3FSubscriptionId%3DAKIAIIBINOD46VC3JCLQ%26tag%3Dstackoverfl08-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1934356379",
+        "authors": [
+          {
+            "name": "David",
+            "surnames": "Chelimsky",
+            "title": "Author"
+          }
+        ]
+      },
+      {
+        "title": "The Dilbert Principle: A Cubicle's-Eye View of Bosses, Meetings, Management Fad...",
+        "type": "reading",
+        "URL": "http://www.amazon.com/The-Dilbert-Principle-Cubicles-Eye-Afflictions/dp/0887308589%3FSubscriptionId%3DAKIAIIBINOD46VC3JCLQ%26tag%3Dstackoverfl08-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0887308589",
+        "authors": [
+          {
+            "name": "Scott",
+            "surnames": "Adams",
+            "title": "Author"
+          }
+        ]
+      },
+      {
+        "title": "Growing Object-Oriented Software, Guided by Tests",
+        "type": "reading",
+        "URL": "http://www.amazon.com/Growing-Object-Oriented-Software-Guided-Tests/dp/0321503627%3FSubscriptionId%3DAKIAIIBINOD46VC3JCLQ%26tag%3Dstackoverfl08-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0321503627",
+        "authors": [
+          {
+            "name": "Steve",
+            "surnames": "Freeman",
+            "title": "Author"
+          }
+        ]
+      },
+      {
+        "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+        "type": "reading",
+        "URL": "http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882%3FSubscriptionId%3DAKIAIIBINOD46VC3JCLQ%26tag%3Dstackoverfl08-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0132350882",
+        "authors": [
+          {
+            "name": "Robert C.",
+            "surnames": "Martin",
+            "title": "Author"
+          }
+        ]
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "DXR Agency"
+        },
+        "roles": [
+          {
+            "name": "Web Architect & Development Lead",
+            "startDate": "2009-05-01",
+            "finishDate": "2010-03-31",
+            "challenges": [
+              {
+                "description": "Development of WebSite for Honda Motors Argentina ([http://motos.honda.com.ar](http://motos.honda.com.ar))\n\nCustom CMS over Kohana PHP Framework"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Hista Internacional"
+        },
+        "roles": [
+          {
+            "name": "RUP & UML Consultant for Rational in Latin America",
+            "startDate": "1998-01-01",
+            "finishDate": "2007-12-31"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Tecnosoftware S.A."
+        },
+        "roles": [
+          {
+            "name": "Development Manager",
+            "startDate": "2008-04-01",
+            "finishDate": "2009-02-28"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Argie Mae S.A."
+        },
+        "roles": [
+          {
+            "name": "Software Developer",
+            "startDate": "1995-06-01",
+            "finishDate": "1998-02-28"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "QUADRATICA S.R.L."
+        },
+        "roles": [
+          {
+            "name": "Owner",
+            "startDate": "2004-08-01",
+            "finishDate": "2008-03-31"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "HISTA S.A."
+        },
+        "roles": [
+          {
+            "name": "Consultant",
+            "startDate": "1998-08-01",
+            "finishDate": "2000-02-28",
+            "challenges": [
+              {
+                "description": "Consultant, trainer and mentor of Rational Unified Process and Rational Tools"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Cibermatica S.A."
+        },
+        "roles": [
+          {
+            "name": "Projects Coordinator",
+            "startDate": "2000-03-01",
+            "finishDate": "2003-07-31",
+            "challenges": [
+              {
+                "description": "3D virtual world design. VRML."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Jobandtalent",
+          "image": {
+            "alt": "Jobandtalent",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/6dd45805-203c-4b56-ab4c-46b00927528d_elxllt2obklt0a9dtab7.png"
+          },
+          "URL": "http://www.jobandtalent.com"
+        },
+        "roles": [
+          {
+            "name": "Principal Backend Enginwer",
+            "startDate": "2015-06-01",
+            "competences": [
+              {
+                "name": "Ruby on Rails",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "Redis",
+                "type": "technology"
+              },
+              {
+                "name": "sidekiq",
+                "type": "technology"
+              },
+              {
+                "name": "rabbit",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Sowre Consulting"
+        },
+        "roles": [
+          {
+            "name": "Software Engineer Consultant",
+            "startDate": "2009-06-01",
+            "finishDate": "2010-08-31",
+            "challenges": [
+              {
+                "description": "Consultant about Software Engineer and Architecture at MAPFRE (one of the most important insurance companies in Spain and Latam).\n\nWorking on SOA architectures and RUP oriented methodology. Trainer and mentor on IBM Rational Tools."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "IBM"
+        },
+        "roles": [
+          {
+            "name": "External Consultant for Rational Products",
+            "startDate": "2002-01-01",
+            "finishDate": "2004-01-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "1up talent"
+        },
+        "roles": [
+          {
+            "name": "Owner",
+            "startDate": "2011-03-01",
+            "finishDate": "2015-05-31",
+            "competences": [
+              {
+                "name": "Ruby",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "rail",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "riderstate",
+          "URL": "https://github.com/GermanDZ/riderstate"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2012-06-01",
+            "competences": [
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "handlebars.rb",
+          "description": "Ruby Bindings for Handlebars.js",
+          "URL": "https://github.com/GermanDZ/handlebars.rb"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2012-01-01",
+            "competences": [
+              {
+                "name": "Ruby",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "hbs_demo",
+          "description": "Handlebars on Rails Demo for madrid.rb",
+          "URL": "https://github.com/GermanDZ/hbs_demo"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2012-01-01",
+            "competences": [
+              {
+                "name": "Ruby",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "pirates-js",
+          "description": "Scratch pad for Node.js server",
+          "URL": "https://github.com/GermanDZ/pirates-js"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2012-04-01",
+            "competences": [
+              {
+                "name": "coffeescript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "germandz.github.com",
+          "description": "My own thoughts",
+          "URL": "https://github.com/GermanDZ/germandz.github.com"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2012-01-01",
+            "competences": [
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "omniauth-facebook",
+          "description": "Facebook OAuth2 Strategy for OmniAuth 1.0",
+          "URL": "https://github.com/GermanDZ/omniauth-facebook"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2011-12-01",
+            "competences": [
+              {
+                "name": "Ruby",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Lungo.js",
+          "description": "HTML5 Mobile Framework... and stuff.",
+          "URL": "https://github.com/GermanDZ/Lungo.js"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2011-11-01",
+            "competences": [
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "robot_tournament",
+          "description": "Tournament engine for allowing little AI robots to do battle",
+          "URL": "https://github.com/GermanDZ/robot_tournament"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2011-04-01",
+            "competences": [
+              {
+                "name": "Ruby",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Abril-Bowling",
+          "description": "Kata del mes de Abril de 2011: Bowling Game",
+          "URL": "https://github.com/GermanDZ/Abril-Bowling"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2011-04-01",
+            "competences": [
+              {
+                "name": "Ruby",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "rt_robots",
+          "description": "Robots for [https://github.com/mattwynne/robot\\_tournament](https://github.com/mattwynne/robot_tournament)",
+          "URL": "https://github.com/GermanDZ/rt_robots"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2011-04-01",
+            "competences": [
+              {
+                "name": "Ruby",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "api-ruby-11870-v1",
+          "description": "Ruby Library for 11870.com API v1",
+          "URL": "https://github.com/GermanDZ/api-ruby-11870-v1"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2011-03-01",
+            "competences": [
+              {
+                "name": "Ruby",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Marzo-FizzBuzz",
+          "description": "Kata del mes de Marzo del 2011: FizzBuzz",
+          "URL": "https://github.com/GermanDZ/Marzo-FizzBuzz"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2011-03-01",
+            "competences": [
+              {
+                "name": "Ruby",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Febrero-Roman-Numerals",
+          "description": "Kata del mes de Febrero del 2011: Roman Numerals",
+          "URL": "https://github.com/GermanDZ/Febrero-Roman-Numerals"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2011-02-01",
+            "competences": [
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "MOGRE (Managed OGRE)",
+          "description": ".NET wrapper for the OGRE 3D rendering engine. \\_\\_\\_\\_\\_\\_\\_\\_ .DON'T USE THE DOWNLOAD BUTTON on right side. (It points to outdated files.) Click to \"Files\" instead. \\_\\_\\_\\_\\_\\_\\_\\_ Also look to the Mogre PROJECT PAGE: [http://www.ogre3d.org/wiki/index.php/MOGRE](http://www.ogre3d.org/wiki/index.php/MOGRE)",
+          "URL": "http://sourceforge.net/projects/mogre"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-03-24",
+            "competences": [
+              {
+                "name": "C++",
+                "type": "technology"
+              },
+              {
+                "name": "C#",
+                "type": "technology"
+              },
+              {
+                "name": "3d-rendering",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "Decent tools for decoding images",
+          "URL": "https://stackoverflow.com/questions/8399571/decent-tools-for-decoding-images/8399622#8399622"
+        },
+        "type": "post",
+        "publishingDate": "2011-12-01"
+      },
+      {
+        "details": {
+          "name": "Change default route name",
+          "URL": "https://stackoverflow.com/questions/8405017/change-default-route-name/8405259#8405259"
+        },
+        "type": "post",
+        "publishingDate": "2011-12-01"
+      }
+    ]
+  },
+  "knowledge": {
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Technician",
+        "startDate": "1989-01-01",
+        "finishDate": "1994-01-01",
+        "institution": {
+          "name": "ENET Nº4 \"Taller Regional Quilmes\""
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Software Engineer",
+        "startDate": "2002-01-01",
+        "finishDate": "2005-01-01",
+        "institution": {
+          "name": "Universidad Argentina de la Empresa"
+        },
+        "linkedCompetences": [
+          {
+            "name": "java-ee",
+            "type": "technology"
+          },
+          {
+            "name": "rational-unified-process",
+            "type": "technology"
+          },
+          {
+            "name": "cmmi",
+            "type": "technology"
+          }
+        ]
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/germandz"
+        },
+        {
+          "type": "other",
+          "URL": "https://stackoverflow.com/story/germandz"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Ruby on Rails",
+          "type": "technology"
+        },
+        {
+          "name": "Ruby",
+          "type": "technology"
+        },
+        {
+          "name": "HTML",
+          "type": "technology"
+        },
+        {
+          "name": "Backbone",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "ES6",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "coffeescript",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "Cobol",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
