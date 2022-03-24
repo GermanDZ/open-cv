@@ -250,6 +250,44 @@
       },
       {
         "organization": {
+          "name": "Stuart",
+          "image": {
+            "alt": "Stuart",
+            "link": "https://pbs.twimg.com/profile_images/1386759869164830724/hilhjK8B_400x400.jpg"
+          },
+          "URL": "https://stuart.com"
+        },
+        "roles": [
+          {
+            "name": "Lead Platform Engineer",
+            "startDate": "2021-09-06",
+            "competences": [
+              {
+                "name": "Ruby on Rails",
+                "type": "technology"
+              },
+              {
+                "name": "Kubernetes",
+                "type": "technology"
+              },
+              {
+                "name": "Redis",
+                "type": "technology"
+              },
+              {
+                "name": "sidekiq",
+                "type": "technology"
+              },
+              {
+                "name": "Kafka",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Sowre Consulting"
         },
         "roles": [
