@@ -221,8 +221,9 @@
         },
         "roles": [
           {
-            "name": "Principal Backend Enginwer",
+            "name": "Principal Backend Engineer",
             "startDate": "2015-06-01",
+            "finishDate": "2021-08-20",
             "competences": [
               {
                 "name": "Ruby on Rails",
