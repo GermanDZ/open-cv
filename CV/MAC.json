@@ -9,7 +9,7 @@
       "name": "German",
       "surnames": "Del Zotto",
       "title": "Principal Backend Engineer",
-      "description": "",
+      "description": "Who I am\nA programmer, a developer o just someone who loves to see how businesses gets better with great software.\n\nA generalizing specialist, I enjoy teaming with specialists. I have worked with many people in different countries and I have learned things from a vast diversity.\n\nWho I’m not\nSomeone who does things without asking why. I need to understand what I am doing.\n\nI’m not obstinate, I like to change my mind but you need to convince me.\n\nWho I want to be\nThat guy who others wants to have in their team.\n\nSomeone who creates a better place in the world, for my friends, colleagues, family and customers.",
       "avatar": {
         "alt": "profile-image",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/00ebe4d9-46f0-4b63-ad34-36e28a10f178_b4626dd4-3faa-4576-8.884b5d1e91b826afc8c6b4fc3429dbd0"
@@ -710,11 +710,11 @@
     "languages": [
       {
         "name": "English",
-        "level": "Limited working proficiency"
+        "level": "Full professional proficiency"
       },
       {
         "name": "Spanish",
-        "level": "Limited working proficiency"
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
