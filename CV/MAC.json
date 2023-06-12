@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -11,34 +11,16 @@
       "title": "Principal Backend Engineer",
       "description": "Who I am\nA programmer, a developer o just someone who loves to see how businesses gets better with great software.\n\nA generalizing specialist, I enjoy teaming with specialists. I have worked with many people in different countries and I have learned things from a vast diversity.\n\nWho I’m not\nSomeone who does things without asking why. I need to understand what I am doing.\n\nI’m not obstinate, I like to change my mind but you need to convince me.\n\nWho I want to be\nThat guy who others wants to have in their team.\n\nSomeone who creates a better place in the world, for my friends, colleagues, family and customers.",
       "avatar": {
-        "alt": "profile-image",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/00ebe4d9-46f0-4b63-ad34-36e28a10f178_b4626dd4-3faa-4576-8.884b5d1e91b826afc8c6b4fc3429dbd0"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/00ebe4d9-46f0-4b63-ad34-36e28a10f178_b4626dd4-3faa-4576-8.884b5d1e91b826afc8c6b4fc3429dbd0",
+        "alt": "profile-image"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
         "country": "España",
         "region": "Comunidad de Madrid",
-        "municipality": "Madrid",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Madrid"
       }
     },
-    "relevantLinks": [
-      {
-        "type": "other",
-        "URL": "http://1uptalent.com/portfolio/"
-      },
-      {
-        "type": "other",
-        "URL": "https://stackoverflow.com/story/germandz"
-      },
-      {
-        "type": "twitter",
-        "URL": "https://twitter.com/GermanDZ"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/germandz"
-      }
-    ],
     "interestingFacts": [
       {
         "topic": "First computer",
@@ -60,8 +42,7 @@
             "surnames": "Martin",
             "title": "Author"
           }
-        ],
-        "summary": ""
+        ]
       },
       {
         "title": "Growing Object-Oriented Software, Guided by Tests",
@@ -73,8 +54,7 @@
             "surnames": "Freeman",
             "title": "Author"
           }
-        ],
-        "summary": ""
+        ]
       },
       {
         "title": "The Clean Coder: A Code of Conduct for Professional Programmers (Robert C. Mart...",
@@ -86,8 +66,7 @@
             "surnames": "Martin",
             "title": "Author"
           }
-        ],
-        "summary": ""
+        ]
       },
       {
         "title": "The Dilbert Principle: A Cubicle's-Eye View of Bosses, Meetings, Management Fad...",
@@ -99,8 +78,7 @@
             "surnames": "Adams",
             "title": "Author"
           }
-        ],
-        "summary": ""
+        ]
       },
       {
         "title": "The RSpec Book: Behaviour Driven Development with Rspec, Cucumber, and Friends ...",
@@ -112,8 +90,17 @@
             "surnames": "Chelimsky",
             "title": "Author"
           }
-        ],
-        "summary": ""
+        ]
+      }
+    ],
+    "relevantLinks": [
+      {
+        "type": "other",
+        "URL": "https://stackoverflow.com/story/germandz"
+      },
+      {
+        "type": "other",
+        "URL": "http://1uptalent.com/portfolio/"
       }
     ]
   },
@@ -123,8 +110,8 @@
         "organization": {
           "name": "Stuart",
           "image": {
-            "alt": "Stuart",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/5a6564aa-04b2-4503-99d1-d38208cc932b_hilhjk8b_400x400.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/5a6564aa-04b2-4503-99d1-d38208cc932b_hilhjk8b_400x400.jpg",
+            "alt": "Stuart"
           },
           "URL": "https://stuart.com"
         },
@@ -132,11 +119,6 @@
           {
             "name": "Lead Platform Engineer",
             "startDate": "2021-09-06",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ],
             "competences": [
               {
                 "name": "Kafka",
@@ -166,8 +148,8 @@
         "organization": {
           "name": "Jobandtalent",
           "image": {
-            "alt": "Jobandtalent",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/791c5e08-b812-456c-bc8b-0101a2318604_6dd45805-203c-4b56-a.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/791c5e08-b812-456c-bc8b-0101a2318604_6dd45805-203c-4b56-a.png",
+            "alt": "Jobandtalent"
           },
           "URL": "http://www.jobandtalent.com"
         },
@@ -176,11 +158,6 @@
             "name": "Principal Backend Engineer",
             "startDate": "2015-06-01",
             "finishDate": "2021-08-20",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ],
             "competences": [
               {
                 "name": "PostgreSQL",
@@ -215,11 +192,6 @@
             "name": "Owner",
             "startDate": "2011-03-01",
             "finishDate": "2015-05-31",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ],
             "competences": [
               {
                 "name": "Docker",
@@ -283,12 +255,7 @@
           {
             "name": "Development Manager",
             "startDate": "2008-04-01",
-            "finishDate": "2009-02-28",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ]
+            "finishDate": "2009-02-28"
           }
         ]
       },
@@ -300,12 +267,7 @@
           {
             "name": "Owner",
             "startDate": "2004-08-01",
-            "finishDate": "2008-03-31",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ]
+            "finishDate": "2008-03-31"
           }
         ]
       },
@@ -317,12 +279,7 @@
           {
             "name": "External Consultant for Rational Products",
             "startDate": "2002-01-01",
-            "finishDate": "2004-01-01",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ]
+            "finishDate": "2004-01-01"
           }
         ]
       },
@@ -368,12 +325,7 @@
           {
             "name": "RUP & UML Consultant for Rational in Latin America",
             "startDate": "1998-01-01",
-            "finishDate": "2007-12-31",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ]
+            "finishDate": "2007-12-31"
           }
         ]
       },
@@ -385,17 +337,72 @@
           {
             "name": "Software Developer",
             "startDate": "1995-06-01",
-            "finishDate": "1998-02-28",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ]
+            "finishDate": "1998-02-28"
           }
         ]
       }
     ],
     "projects": [
+      {
+        "details": {
+          "name": "Febrero-Roman-Numerals",
+          "description": "Kata del mes de Febrero del 2011: Roman Numerals",
+          "URL": "https://github.com/GermanDZ/Febrero-Roman-Numerals"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2011-02-01",
+            "competences": [
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "rt_robots",
+          "description": "Robots for [https://github.com/mattwynne/robot\\_tournament](https://github.com/mattwynne/robot_tournament)",
+          "URL": "https://github.com/GermanDZ/rt_robots"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2011-04-01",
+            "competences": [
+              {
+                "name": "Ruby",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "pirates-js",
+          "description": "Scratch pad for Node.js server",
+          "URL": "https://github.com/GermanDZ/pirates-js"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2012-04-01",
+            "competences": [
+              {
+                "name": "coffeescript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
       {
         "details": {
           "name": "MOGRE (Managed OGRE)",
@@ -426,95 +433,15 @@
       },
       {
         "details": {
-          "name": "riderstate",
-          "description": "",
-          "URL": "https://github.com/GermanDZ/riderstate"
+          "name": "Abril-Bowling",
+          "description": "Kata del mes de Abril de 2011: Bowling Game",
+          "URL": "https://github.com/GermanDZ/Abril-Bowling"
         },
         "type": "openSource",
         "roles": [
           {
             "name": "Developer",
-            "startDate": "2012-06-01",
-            "competences": [
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "pirates-js",
-          "description": "Scratch pad for Node.js server",
-          "URL": "https://github.com/GermanDZ/pirates-js"
-        },
-        "type": "openSource",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2012-04-01",
-            "competences": [
-              {
-                "name": "coffeescript",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "germandz.github.com",
-          "description": "My own thoughts",
-          "URL": "https://github.com/GermanDZ/germandz.github.com"
-        },
-        "type": "openSource",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2012-01-01",
-            "competences": [
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "hbs_demo",
-          "description": "Handlebars on Rails Demo for madrid.rb",
-          "URL": "https://github.com/GermanDZ/hbs_demo"
-        },
-        "type": "openSource",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2012-01-01",
-            "competences": [
-              {
-                "name": "Ruby",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "handlebars.rb",
-          "description": "Ruby Bindings for Handlebars.js",
-          "URL": "https://github.com/GermanDZ/handlebars.rb"
-        },
-        "type": "openSource",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2012-01-01",
+            "startDate": "2011-04-01",
             "competences": [
               {
                 "name": "Ruby",
@@ -546,18 +473,57 @@
       },
       {
         "details": {
-          "name": "Lungo.js",
-          "description": "HTML5 Mobile Framework... and stuff.",
-          "URL": "https://github.com/GermanDZ/Lungo.js"
+          "name": "handlebars.rb",
+          "description": "Ruby Bindings for Handlebars.js",
+          "URL": "https://github.com/GermanDZ/handlebars.rb"
         },
         "type": "openSource",
         "roles": [
           {
             "name": "Developer",
-            "startDate": "2011-11-01",
+            "startDate": "2012-01-01",
+            "competences": [
+              {
+                "name": "Ruby",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "riderstate",
+          "URL": "https://github.com/GermanDZ/riderstate"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2012-06-01",
             "competences": [
               {
                 "name": "JavaScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Marzo-FizzBuzz",
+          "description": "Kata del mes de Marzo del 2011: FizzBuzz",
+          "URL": "https://github.com/GermanDZ/Marzo-FizzBuzz"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2011-03-01",
+            "competences": [
+              {
+                "name": "Ruby",
                 "type": "technology"
               }
             ]
@@ -586,35 +552,15 @@
       },
       {
         "details": {
-          "name": "Abril-Bowling",
-          "description": "Kata del mes de Abril de 2011: Bowling Game",
-          "URL": "https://github.com/GermanDZ/Abril-Bowling"
+          "name": "hbs_demo",
+          "description": "Handlebars on Rails Demo for madrid.rb",
+          "URL": "https://github.com/GermanDZ/hbs_demo"
         },
         "type": "openSource",
         "roles": [
           {
             "name": "Developer",
-            "startDate": "2011-04-01",
-            "competences": [
-              {
-                "name": "Ruby",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "rt_robots",
-          "description": "Robots for [https://github.com/mattwynne/robot\\_tournament](https://github.com/mattwynne/robot_tournament)",
-          "URL": "https://github.com/GermanDZ/rt_robots"
-        },
-        "type": "openSource",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2011-04-01",
+            "startDate": "2012-01-01",
             "competences": [
               {
                 "name": "Ruby",
@@ -646,18 +592,18 @@
       },
       {
         "details": {
-          "name": "Marzo-FizzBuzz",
-          "description": "Kata del mes de Marzo del 2011: FizzBuzz",
-          "URL": "https://github.com/GermanDZ/Marzo-FizzBuzz"
+          "name": "Lungo.js",
+          "description": "HTML5 Mobile Framework... and stuff.",
+          "URL": "https://github.com/GermanDZ/Lungo.js"
         },
         "type": "openSource",
         "roles": [
           {
             "name": "Developer",
-            "startDate": "2011-03-01",
+            "startDate": "2011-11-01",
             "competences": [
               {
-                "name": "Ruby",
+                "name": "JavaScript",
                 "type": "technology"
               }
             ]
@@ -666,15 +612,15 @@
       },
       {
         "details": {
-          "name": "Febrero-Roman-Numerals",
-          "description": "Kata del mes de Febrero del 2011: Roman Numerals",
-          "URL": "https://github.com/GermanDZ/Febrero-Roman-Numerals"
+          "name": "germandz.github.com",
+          "description": "My own thoughts",
+          "URL": "https://github.com/GermanDZ/germandz.github.com"
         },
         "type": "openSource",
         "roles": [
           {
             "name": "Developer",
-            "startDate": "2011-02-01",
+            "startDate": "2012-01-01",
             "competences": [
               {
                 "name": "JavaScript",
@@ -688,18 +634,16 @@
     "publicArtifacts": [
       {
         "details": {
-          "name": "Decent tools for decoding images",
-          "description": "",
-          "URL": "https://stackoverflow.com/questions/8399571/decent-tools-for-decoding-images/8399622#8399622"
+          "name": "Change default route name",
+          "URL": "https://stackoverflow.com/questions/8405017/change-default-route-name/8405259#8405259"
         },
         "type": "post",
         "publishingDate": "2011-12-01"
       },
       {
         "details": {
-          "name": "Change default route name",
-          "description": "",
-          "URL": "https://stackoverflow.com/questions/8405017/change-default-route-name/8405259#8405259"
+          "name": "Decent tools for decoding images",
+          "URL": "https://stackoverflow.com/questions/8399571/decent-tools-for-decoding-images/8399622#8399622"
         },
         "type": "post",
         "publishingDate": "2011-12-01"
@@ -709,24 +653,18 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
+        "name": "EN",
         "level": "Full professional proficiency"
       },
       {
-        "name": "Spanish",
+        "name": "ES",
         "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "Ruby",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Ruby on Rails",
+          "name": "Docker",
           "type": "technology"
         }
       },
@@ -738,19 +676,25 @@
       },
       {
         "skill": {
-          "name": "React",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "NoSQL",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Docker",
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ruby",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ruby on Rails",
           "type": "technology"
         }
       }
@@ -761,11 +705,10 @@
         "degreeAchieved": true,
         "name": "Software Engineer",
         "startDate": "2002-01-01",
-        "finishDate": "2005-01-01",
         "institution": {
-          "name": "Universidad Argentina de la Empresa",
-          "description": ""
+          "name": "Universidad Argentina de la Empresa"
         },
+        "finishDate": "2005-01-01",
         "linkedCompetences": [
           {
             "name": "cmmi",
@@ -786,10 +729,29 @@
         "degreeAchieved": true,
         "name": "Technician",
         "startDate": "1989-01-01",
-        "finishDate": "1994-01-01",
         "institution": {
-          "name": "ENET Nº4 \"Taller Regional Quilmes\"",
-          "description": ""
+          "name": "ENET Nº4 \"Taller Regional Quilmes\""
+        },
+        "finishDate": "1994-01-01"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Leadership skills",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Mentoring ability",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Uncertainty tolerance",
+          "type": "practice"
         }
       }
     ]
@@ -798,8 +760,21 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/germandz"
+          "URL": "https://www.linkedin.com/in/germandz",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://twitter.com/GermanDZ",
+          "type": "other"
+        }
+      ],
+      "contactMails": [
+        "germ@ndz.com.ar"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "622381813",
+          "countryCode": "+34"
         }
       ]
     },
@@ -853,5 +828,52 @@
       ]
     },
     "status": "openToOffers"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "It's a job where I'm reporting to people which will teach me about their jobs. It's a job where I'm in charge, not to do whatever I said, but to make decisions being accountable.  The job must allow me to create a team, not \"a team\" but \"my team\" where we are all part of them. The job must be creating, improving, enhancing things, where results could seeing, shown, and be can be proud of that.",
+    "projects": [
+      {
+        "name": "Abril-Bowling"
+      },
+      {
+        "name": "Febrero-Roman-Numerals"
+      },
+      {
+        "name": "Lungo.js"
+      },
+      {
+        "name": "MOGRE (Managed OGRE)"
+      },
+      {
+        "name": "Marzo-FizzBuzz"
+      },
+      {
+        "name": "api-ruby-11870-v1"
+      },
+      {
+        "name": "germandz.github.com"
+      },
+      {
+        "name": "handlebars.rb"
+      },
+      {
+        "name": "hbs_demo"
+      },
+      {
+        "name": "omniauth-facebook"
+      },
+      {
+        "name": "pirates-js"
+      },
+      {
+        "name": "riderstate"
+      },
+      {
+        "name": "robot_tournament"
+      },
+      {
+        "name": "rt_robots"
+      }
+    ]
   }
 }
