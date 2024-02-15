@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "EN",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -94,6 +94,14 @@
       }
     ],
     "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/germandz"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/GermanDZ"
+      },
       {
         "type": "other",
         "URL": "https://stackoverflow.com/story/germandz"
@@ -345,66 +353,6 @@
     "projects": [
       {
         "details": {
-          "name": "Febrero-Roman-Numerals",
-          "description": "Kata del mes de Febrero del 2011: Roman Numerals",
-          "URL": "https://github.com/GermanDZ/Febrero-Roman-Numerals"
-        },
-        "type": "openSource",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2011-02-01",
-            "competences": [
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "rt_robots",
-          "description": "Robots for [https://github.com/mattwynne/robot\\_tournament](https://github.com/mattwynne/robot_tournament)",
-          "URL": "https://github.com/GermanDZ/rt_robots"
-        },
-        "type": "openSource",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2011-04-01",
-            "competences": [
-              {
-                "name": "Ruby",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "pirates-js",
-          "description": "Scratch pad for Node.js server",
-          "URL": "https://github.com/GermanDZ/pirates-js"
-        },
-        "type": "openSource",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2012-04-01",
-            "competences": [
-              {
-                "name": "coffeescript",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
           "name": "MOGRE (Managed OGRE)",
           "description": ".NET wrapper for the OGRE 3D rendering engine. \\_\\_\\_\\_\\_\\_\\_\\_ .DON'T USE THE DOWNLOAD BUTTON on right side. (It points to outdated files.) Click to \"Files\" instead. \\_\\_\\_\\_\\_\\_\\_\\_ Also look to the Mogre PROJECT PAGE: [http://www.ogre3d.org/wiki/index.php/MOGRE](http://www.ogre3d.org/wiki/index.php/MOGRE)",
           "URL": "http://sourceforge.net/projects/mogre"
@@ -433,66 +381,6 @@
       },
       {
         "details": {
-          "name": "Abril-Bowling",
-          "description": "Kata del mes de Abril de 2011: Bowling Game",
-          "URL": "https://github.com/GermanDZ/Abril-Bowling"
-        },
-        "type": "openSource",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2011-04-01",
-            "competences": [
-              {
-                "name": "Ruby",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "omniauth-facebook",
-          "description": "Facebook OAuth2 Strategy for OmniAuth 1.0",
-          "URL": "https://github.com/GermanDZ/omniauth-facebook"
-        },
-        "type": "openSource",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2011-12-01",
-            "competences": [
-              {
-                "name": "Ruby",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "handlebars.rb",
-          "description": "Ruby Bindings for Handlebars.js",
-          "URL": "https://github.com/GermanDZ/handlebars.rb"
-        },
-        "type": "openSource",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2012-01-01",
-            "competences": [
-              {
-                "name": "Ruby",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
           "name": "riderstate",
           "URL": "https://github.com/GermanDZ/riderstate"
         },
@@ -512,18 +400,18 @@
       },
       {
         "details": {
-          "name": "Marzo-FizzBuzz",
-          "description": "Kata del mes de Marzo del 2011: FizzBuzz",
-          "URL": "https://github.com/GermanDZ/Marzo-FizzBuzz"
+          "name": "pirates-js",
+          "description": "Scratch pad for Node.js server",
+          "URL": "https://github.com/GermanDZ/pirates-js"
         },
         "type": "openSource",
         "roles": [
           {
             "name": "Developer",
-            "startDate": "2011-03-01",
+            "startDate": "2012-04-01",
             "competences": [
               {
-                "name": "Ruby",
+                "name": "coffeescript",
                 "type": "technology"
               }
             ]
@@ -532,15 +420,15 @@
       },
       {
         "details": {
-          "name": "robot_tournament",
-          "description": "Tournament engine for allowing little AI robots to do battle",
-          "URL": "https://github.com/GermanDZ/robot_tournament"
+          "name": "handlebars.rb",
+          "description": "Ruby Bindings for Handlebars.js",
+          "URL": "https://github.com/GermanDZ/handlebars.rb"
         },
         "type": "openSource",
         "roles": [
           {
             "name": "Developer",
-            "startDate": "2011-04-01",
+            "startDate": "2012-01-01",
             "competences": [
               {
                 "name": "Ruby",
@@ -572,15 +460,35 @@
       },
       {
         "details": {
-          "name": "api-ruby-11870-v1",
-          "description": "Ruby Library for 11870.com API v1",
-          "URL": "https://github.com/GermanDZ/api-ruby-11870-v1"
+          "name": "germandz.github.com",
+          "description": "My own thoughts",
+          "URL": "https://github.com/GermanDZ/germandz.github.com"
         },
         "type": "openSource",
         "roles": [
           {
             "name": "Developer",
-            "startDate": "2011-03-01",
+            "startDate": "2012-01-01",
+            "competences": [
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "omniauth-facebook",
+          "description": "Facebook OAuth2 Strategy for OmniAuth 1.0",
+          "URL": "https://github.com/GermanDZ/omniauth-facebook"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2011-12-01",
             "competences": [
               {
                 "name": "Ruby",
@@ -612,15 +520,115 @@
       },
       {
         "details": {
-          "name": "germandz.github.com",
-          "description": "My own thoughts",
-          "URL": "https://github.com/GermanDZ/germandz.github.com"
+          "name": "rt_robots",
+          "description": "Robots for [https://github.com/mattwynne/robot\\_tournament](https://github.com/mattwynne/robot_tournament)",
+          "URL": "https://github.com/GermanDZ/rt_robots"
         },
         "type": "openSource",
         "roles": [
           {
             "name": "Developer",
-            "startDate": "2012-01-01",
+            "startDate": "2011-04-01",
+            "competences": [
+              {
+                "name": "Ruby",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Abril-Bowling",
+          "description": "Kata del mes de Abril de 2011: Bowling Game",
+          "URL": "https://github.com/GermanDZ/Abril-Bowling"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2011-04-01",
+            "competences": [
+              {
+                "name": "Ruby",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "robot_tournament",
+          "description": "Tournament engine for allowing little AI robots to do battle",
+          "URL": "https://github.com/GermanDZ/robot_tournament"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2011-04-01",
+            "competences": [
+              {
+                "name": "Ruby",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Marzo-FizzBuzz",
+          "description": "Kata del mes de Marzo del 2011: FizzBuzz",
+          "URL": "https://github.com/GermanDZ/Marzo-FizzBuzz"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2011-03-01",
+            "competences": [
+              {
+                "name": "Ruby",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "api-ruby-11870-v1",
+          "description": "Ruby Library for 11870.com API v1",
+          "URL": "https://github.com/GermanDZ/api-ruby-11870-v1"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2011-03-01",
+            "competences": [
+              {
+                "name": "Ruby",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Febrero-Roman-Numerals",
+          "description": "Kata del mes de Febrero del 2011: Roman Numerals",
+          "URL": "https://github.com/GermanDZ/Febrero-Roman-Numerals"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2011-02-01",
             "competences": [
               {
                 "name": "JavaScript",
@@ -654,10 +662,12 @@
     "languages": [
       {
         "name": "EN",
+        "fullName": "Inglés",
         "level": "Full professional proficiency"
       },
       {
         "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
       }
     ],
@@ -765,27 +775,17 @@
         },
         {
           "URL": "https://twitter.com/GermanDZ",
-          "type": "other"
+          "type": "twitter"
         }
       ],
       "contactMails": [
         "germ@ndz.com.ar"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "622381813",
-          "countryCode": "+34"
-        }
       ]
     },
     "preferences": {
       "preferredCompetences": [
         {
           "name": "Backbone",
-          "type": "technology"
-        },
-        {
-          "name": "ES6",
           "type": "technology"
         },
         {
@@ -873,6 +873,23 @@
       },
       {
         "name": "rt_robots"
+      }
+    ],
+    "bookmarks": [
+      {
+        "name": "Clean Code: A Handbook of Agile Software Craftsmanship"
+      },
+      {
+        "name": "Growing Object-Oriented Software, Guided by Tests"
+      },
+      {
+        "name": "The Clean Coder: A Code of Conduct for Professional Programmers (Robert C. Mart..."
+      },
+      {
+        "name": "The Dilbert Principle: A Cubicle's-Eye View of Bosses, Meetings, Management Fad..."
+      },
+      {
+        "name": "The RSpec Book: Behaviour Driven Development with Rspec, Cucumber, and Friends ..."
       }
     ]
   }
