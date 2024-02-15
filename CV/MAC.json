@@ -104,11 +104,8 @@
       },
       {
         "type": "other",
-        "URL": "https://stackoverflow.com/story/germandz"
-      },
-      {
-        "type": "other",
-        "URL": "http://1uptalent.com/portfolio/"
+        "URL": "http://1uptalent.com/portfolio/",
+        "description": "1uptalent"
       }
     ]
   },
