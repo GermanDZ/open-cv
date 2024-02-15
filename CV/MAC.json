@@ -103,6 +103,10 @@
         "URL": "https://twitter.com/GermanDZ"
       },
       {
+        "type": "stackoverflow",
+        "URL": "https://stackoverflow.com/users/484071/germandz"
+      },
+      {
         "type": "other",
         "URL": "http://1uptalent.com/portfolio/",
         "description": "1uptalent"
@@ -848,6 +852,10 @@
         {
           "URL": "https://www.linkedin.com/in/germandz",
           "type": "linkedin"
+        },
+        {
+          "URL": "https://stackoverflow.com/users/484071/germandz",
+          "type": "stackoverflow"
         },
         {
           "URL": "https://twitter.com/GermanDZ",
