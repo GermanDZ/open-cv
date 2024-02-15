@@ -99,6 +99,10 @@
         "URL": "https://www.linkedin.com/in/germandz"
       },
       {
+        "type": "github",
+        "URL": "https://github.com/germandz"
+      },
+      {
         "type": "twitter",
         "URL": "https://twitter.com/GermanDZ"
       },
@@ -856,6 +860,10 @@
         {
           "URL": "https://stackoverflow.com/users/484071/germandz",
           "type": "stackoverflow"
+        },
+        {
+          "URL": "https://github.com/germandz",
+          "type": "github"
         },
         {
           "URL": "https://twitter.com/GermanDZ",
