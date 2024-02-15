@@ -674,7 +674,19 @@
     "hardSkills": [
       {
         "skill": {
+          "name": "AWS ECS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Express",
           "type": "technology"
         }
       },
@@ -686,7 +698,31 @@
       },
       {
         "skill": {
+          "name": "Kubernetes",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "NoSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
           "type": "technology"
         }
       },
@@ -830,6 +866,28 @@
     "status": "openToOffers"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Docker",
+        "type": "technology"
+      },
+      {
+        "name": "JavaScript",
+        "type": "technology"
+      },
+      {
+        "name": "NodeJS",
+        "type": "technology"
+      },
+      {
+        "name": "React",
+        "type": "technology"
+      },
+      {
+        "name": "Ruby on Rails",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "It's a job where I'm reporting to people which will teach me about their jobs. It's a job where I'm in charge, not to do whatever I said, but to make decisions being accountable.  The job must allow me to create a team, not \"a team\" but \"my team\" where we are all part of them. The job must be creating, improving, enhancing things, where results could seeing, shown, and be can be proud of that.",
     "projects": [
       {
