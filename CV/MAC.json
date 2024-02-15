@@ -232,7 +232,11 @@
       },
       {
         "organization": {
-          "name": "1up talent"
+          "name": "1up talent",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/15/c938106c-6ab7-4fb4-ba19-b9c6753d8223_1uptalent.jpg",
+            "alt": "1uptalent.jpg"
+          }
         },
         "roles": [
           {
