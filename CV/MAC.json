@@ -116,6 +116,40 @@
     "jobs": [
       {
         "organization": {
+          "name": "Boopos",
+          "URL": "https://www.boopos.com"
+        },
+        "roles": [
+          {
+            "name": "Tech Lead",
+            "startDate": "2023-07-01",
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Stuart",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/5a6564aa-04b2-4503-99d1-d38208cc932b_hilhjk8b_400x400.jpg",
