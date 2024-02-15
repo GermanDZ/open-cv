@@ -117,6 +117,10 @@
       {
         "organization": {
           "name": "Boopos",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/15/8473571e-db01-4705-8ede-da435722db3c_6447755e064dd5947386.svg",
+            "alt": "6447755e064dd5947386ded5_logo.svg"
+          },
           "URL": "https://www.boopos.com"
         },
         "roles": [
