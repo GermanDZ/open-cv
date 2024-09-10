@@ -841,10 +841,6 @@
     "preferences": {
       "preferredCompetences": [
         {
-          "name": "Backbone",
-          "type": "technology"
-        },
-        {
           "name": "HTML",
           "type": "technology"
         },
