@@ -776,11 +776,11 @@
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Software Engineer",
-        "startDate": "2002-01-01",
+        "startDate": "2003-01-01",
         "institution": {
           "name": "Universidad Argentina de la Empresa"
         },
-        "finishDate": "2005-01-01"
+        "finishDate": "2010-01-01"
       },
       {
         "studyType": "officialDegree",
@@ -914,6 +914,7 @@
       }
     ],
     "desiredJobDescription": "My ideal job would be a senior engineering role where I can:\n\n- Work on scalable, challenging systems\n- Lead and mentor a team of developers\n- Collaborate with product and business teams to align tech solutions with company goals\n- Use and expand my skills in cloud technologies and modern practices\n- Contribute to evolving the tech stack, especially in service-oriented architectures\n- Stay at the forefront of technology trends, even when the everyday work is on \"boring\" tech when that tech is solving real problems.\n- Make a significant impact while continuing to grow professionally\n\nI'm looking for an environment that values innovation, continuous learning, and work-life balance, where I can leverage my experience to create excellent software solutions.",
+    "goodPractices": "### Training in Good Development Practices\n\n#### Agile Methodologies\n\n- Certified trainer for Rational Unified Process\n- Experience with Scrum and Kanban in various roles\n\n#### DevOps Practices\n\n- CI/CD pipeline optimization\n- Infrastructure as Code (using tools like Terraform)\n\n#### Code Quality\n\n- Code review processes\n- Static code analysis tools\n\n#### Software Architecture\n\n- Microservices and Service-Oriented Architecture (SOA)\n- Domain-Driven Design (DDD)\n\n#### Security Best Practices\n\n- OWASP guidelines\n- Secure coding practices\n\n\n### Theoretical and Practical Knowledge of Programming Principles\n\n- Object-Oriented Programming (OOP)\n- Encapsulation, Inheritance, Polymorphism\n- SOLID principles\n\n#### Functional Programming\n\n- Immutability, Pure functions\n- Higher-order functions\n\n#### Design Patterns\n\n- Creational, Structural, and Behavioral patterns\n- When and how to apply them effectively\n\n#### Clean Code Principles\n\n- Meaningful naming\n- Single Responsibility Principle\n- DRY (Don't Repeat Yourself)\n\n#### Test-Driven Development (TDD)\n\n- Unit testing\n- Integration testing\n- End-to-end testing\n\n#### Concurrency and Parallelism\n\n- Threading models\n- Asynchronous programming\n\n\n#### Performance Optimization\n\n- Profiling and benchmarking\n- Caching strategies\n\n\n#### API Design\n\n- RESTful principles\n- GraphQL\n- RPC\n\n\n#### Database Design\n\n- Normalization\n- Indexing strategies\n- SQL and NoSQL paradigms\n\n\nThese practices and principles have been acquired through hands-on experience across various projects and roles, from startups to enterprise-level applications.",
     "projects": [
       {
         "name": "Abril-Bowling"
