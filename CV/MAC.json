@@ -869,10 +869,6 @@
           "type": "technology"
         },
         {
-          "name": "TypeORM",
-          "type": "technology"
-        },
-        {
           "name": "TypeScript",
           "type": "technology"
         }
