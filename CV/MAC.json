@@ -187,10 +187,6 @@
               {
                 "name": "Ruby on Rails",
                 "type": "technology"
-              },
-              {
-                "name": "sidekiq",
-                "type": "technology"
               }
             ]
           }
@@ -226,10 +222,6 @@
               {
                 "name": "rabbit",
                 "type": "technology"
-              },
-              {
-                "name": "sidekiq",
-                "type": "technology"
               }
             ]
           }
@@ -259,10 +251,6 @@
               },
               {
                 "name": "Ruby",
-                "type": "technology"
-              },
-              {
-                "name": "rail",
                 "type": "technology"
               }
             ]
@@ -412,10 +400,6 @@
             "startDate": "2022-03-24",
             "competences": [
               {
-                "name": "3d-rendering",
-                "type": "technology"
-              },
-              {
                 "name": "C#",
                 "type": "technology"
               },
@@ -456,13 +440,7 @@
         "roles": [
           {
             "name": "Developer",
-            "startDate": "2012-04-01",
-            "competences": [
-              {
-                "name": "coffeescript",
-                "type": "technology"
-              }
-            ]
+            "startDate": "2012-04-01"
           }
         ]
       },
@@ -802,21 +780,7 @@
         "institution": {
           "name": "Universidad Argentina de la Empresa"
         },
-        "finishDate": "2005-01-01",
-        "linkedCompetences": [
-          {
-            "name": "cmmi",
-            "type": "technology"
-          },
-          {
-            "name": "java-ee",
-            "type": "technology"
-          },
-          {
-            "name": "rational-unified-process",
-            "type": "technology"
-          }
-        ]
+        "finishDate": "2005-01-01"
       },
       {
         "studyType": "officialDegree",
@@ -901,7 +865,7 @@
           "type": "technology"
         },
         {
-          "name": "coffeescript",
+          "name": "TypeORM",
           "type": "technology"
         }
       ],
