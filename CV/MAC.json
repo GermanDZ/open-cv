@@ -122,6 +122,10 @@
       {
         "organization": {
           "name": "Workato",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/03/12/6136b28d-6129-4873-9a25-cfa43fb1e204_workato-logo.png",
+            "alt": "workato-logo.png"
+          },
           "URL": "https://www.workato.com"
         },
         "roles": [
