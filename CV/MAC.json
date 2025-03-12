@@ -121,6 +121,24 @@
     "jobs": [
       {
         "organization": {
+          "name": "Workato",
+          "URL": "https://www.workato.com"
+        },
+        "roles": [
+          {
+            "name": "Senior Software Engineer",
+            "startDate": "2025-02-01",
+            "competences": [
+              {
+                "name": "Ruby on Rails",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Boopos",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/15/8473571e-db01-4705-8ede-da435722db3c_6447755e064dd5947386.svg",
